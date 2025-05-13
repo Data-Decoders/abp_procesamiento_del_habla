@@ -1,0 +1,3 @@
+Aquí iría el dataset, pero es demasiado grande y no lo soporta github.
+
+Se va a trabajar desde Google Drive directamente.
