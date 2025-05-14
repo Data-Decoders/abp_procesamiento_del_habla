@@ -1,3 +1,5 @@
-Aquí iría el dataset, pero es demasiado grande y no lo soporta github.
+En esta carpeta va el dataset.
 
-Se va a trabajar desde Google Drive directamente.
+Como el dataset es demasiado grande y no lo soporta GitHub de una vez, se lo partió en tres trozos menores y luego se los concatena en la Notebook para trabajar con ellos.
+
+Pueder desde Google Colab o Jupyter Notebook.
