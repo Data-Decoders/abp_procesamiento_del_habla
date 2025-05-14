@@ -1,3 +1,3 @@
-# abp_procesamiento_del_habla
+# tecnicas_de_procesamiento_del_habla
 
-Repositorio para el ABP del espacio Técnicas de Procesamiento del Habla
+Repositorio para las entregas y el ABP del espacio Técnicas de Procesamiento del Habla.
